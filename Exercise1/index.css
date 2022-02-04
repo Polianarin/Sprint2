@@ -38,4 +38,7 @@ body{
 
 .image {
     margin-top: 10%;
+    box-shadow: 260px 130px 0 15px rgb(108, 108, 241);
+    border-radius: 100px 10px;
+    
 }
