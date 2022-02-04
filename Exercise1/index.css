@@ -1,7 +1,41 @@
 body{
-    margin: 0;
+    margin: 20px;
     padding: 0;
-    background: #fff;
+    background: white;
     font-family: 'Raleway', sans-serif;
-    color: #fff;
+}
+
+.nav{
+    margin-right: 20px;
+}
+
+.nav li a{
+    color: gray;
+    font-size: 15px;
+}
+
+.nav li a:hover{
+    color: white;
+    background: red;
+}
+
+.plain {
+    margin-top: 15%;
+    transform: translateY(-15);
+}
+
+.plain .btn{
+    margin-right: 10px;
+    color: black;
+    background: whitesmoke;
+    padding: 10px 10px;
+}
+
+.plain .btn:hover{
+    color:white;
+    background: blue;
+}
+
+.image {
+    margin-top: 10%;
 }
